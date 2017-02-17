@@ -1,0 +1,2 @@
+Deskripsi tugas week 1:
+Belajar mengatur file dan folder, scripting menggunakan command line
