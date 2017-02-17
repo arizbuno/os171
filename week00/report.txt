@@ -1,0 +1,3 @@
+Deskripsi tugas week 0:
+Membuat dan meregistrasikan akun-akun yang dibutuhkan untuk kepentingan kelas OS
+Mencoba sekaligus mempelajadi git
